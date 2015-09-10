@@ -1,6 +1,6 @@
 # Curriculum Vitae de KVL
 
-## voici le lien vers [mon cv](https://www.dropbox.com/sh/49zx3uhqpuv06wm/AAAFWbuD0dQ9PffnYzkao5G4a?dl=0)
+## voici le lien vers [mon cv](https://www.dropbox.com/sh/y7nrz3rkodo3t5p/AAClgavgeJ9ZGEZAYAVkIsPba?dl=0)
 
 Pour realiser ce CV, j'ai utilisé:
 
@@ -10,7 +10,7 @@ xampp,
 firefox.
 
 
-les lagages:
+les langages:
 html,
 css.
 
